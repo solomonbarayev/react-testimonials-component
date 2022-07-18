@@ -26,22 +26,20 @@ const Review = () => {
     setIndex(randomNumber);
   };
 
+  const { name, job, image, text } = people[index];
+
   return (
     <>
       <article className="review">
         <div className="img-container">
-          <img
-            className="person-img"
-            src={people[`${index}`].image}
-            alt={people[`${index}`].name}
-          />
+          <img className="person-img" src={image} alt={name} />
           <span className="quote-icon">
             <FaQuoteRight />
           </span>
         </div>
-        <h4 className="author">{people[`${index}`].name}</h4>
-        <p className="job">{people[`${index}`].job}</p>
-        <p>{people[`${index}`].text}</p>
+        <h4 className="author">{name}</h4>
+        <p className="job">{job}</p>
+        <p>{text}</p>
         <div className="button-container">
           <button className="prev-btn" onClick={previousPerson}>
             <FaChevronLeft />
