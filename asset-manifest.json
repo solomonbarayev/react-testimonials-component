@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-testimonials-component/static/css/main.3d9f8e8d.chunk.css",
+    "main.js": "/react-testimonials-component/static/js/main.90eb8163.chunk.js",
+    "main.js.map": "/react-testimonials-component/static/js/main.90eb8163.chunk.js.map",
+    "runtime-main.js": "/react-testimonials-component/static/js/runtime-main.a21aefef.js",
+    "runtime-main.js.map": "/react-testimonials-component/static/js/runtime-main.a21aefef.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/react-testimonials-component/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/react-testimonials-component/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/react-testimonials-component/index.html",
+    "precache-manifest.f4fdad4988267fb089105372d2474d8b.js": "/react-testimonials-component/precache-manifest.f4fdad4988267fb089105372d2474d8b.js",
+    "service-worker.js": "/react-testimonials-component/service-worker.js",
+    "static/css/main.3d9f8e8d.chunk.css.map": "/react-testimonials-component/static/css/main.3d9f8e8d.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/react-testimonials-component/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a21aefef.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.3d9f8e8d.chunk.css",
+    "static/js/main.90eb8163.chunk.js"
+  ]
+}
